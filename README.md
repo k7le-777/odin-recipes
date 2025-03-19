@@ -9,3 +9,4 @@ This project is part of the **Odin Project** curriculum. In this project, I will
 - Creating simple styles with CSS
 
 By the end of this project, I will have built a basic static website with recipes, showcasing my progress in front-end web development.
+f

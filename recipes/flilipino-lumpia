@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><filipino-lumpia></filipino-lumpia></title>
+</head>
+<body>
+    <h1>Filipino-lumpia</h1>
+    <img src="https://www.allrecipes.com/thmb/b3Of3-Zki0fCwzdp5dbbUsvAQHQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145413-1a0cce63131d4ba0822e866d069747a5.jpg" alt="Filipino lumpia">
+    <h2>Description</h2>
+    <p>Lumpia, or Lumpiang Shanghai, is a popular Filipino spring roll made with a savory filling of ground pork (or chicken), minced vegetables, and seasonings, wrapped in thin lumpia wrappers and deep-fried until crispy. These bite-sized rolls are typically served with a sweet and sour dipping sauce or banana ketchup, making them a favorite at Filipino gatherings and celebrations.</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>500g (1 lb) ground pork (or chicken)</li>
+        <li>1 small carrot, finely grated</li>
+        <li> small onion, finely chopped</li>
+        <li>3 cloves garlic, minced</li>
+        <li>you get the idea...</li>
+
+        
+        
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>In a mixing bowl, combine ground pork (or chicken), grated carrot, chopped onion, minced garlic, beaten egg, soy sauce, oyster sauce (if using), salt, black pepper, and sugar.
+            Mix well until evenly combined.</li>
+        <li>Lay a lumpia wrapper on a clean surface.
+            Place about 1 tablespoon of the filling in a thin line near one edge of the wrapper.
+            Roll the wrapper tightly over the filling, folding in the sides as you roll.
+            Seal the edge with the cornstarch-water mixture.
+            </li>
+        <li>If using large wrappers, cut each lumpia roll into 2-3 smaller pieces.
+        </li>
+        <li>RHeat oil in a deep pan over medium heat.
+            Fry the lumpia in batches, turning occasionally, until golden brown and crispy (about 3-5 minutes).
+            Drain on paper towels to remove excess oil.</li>
+        <li>Serve the lumpia hot with sweet and sour dipping sauce or banana ketchup.
+    </ol>
+    <a href="../index.html">Home</a>
+</body>
+</html>
